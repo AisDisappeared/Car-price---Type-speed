@@ -56,13 +56,13 @@ python car_price.py
 
 This application helps you find and list websites for typing speed practice.
 
-1. Run the Application
+1- Run the Application
 
 ~~~bash
 python type_links.py
 ~~~
 
-2. Usage
+2- Usage
 
    The script will output a list of recommended websites for typing practice.
 
